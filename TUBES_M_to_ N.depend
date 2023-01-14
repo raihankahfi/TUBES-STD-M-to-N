@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1673664214 source:/home/raihan/Desktop/TUBES STD 2022/TUBES_M_to_ N/main.cpp
+	<iostream>
+	"program.h"
+
+1673664214 /home/raihan/Desktop/TUBES STD 2022/TUBES_M_to_ N/program.h
+	<iostream>
+
+1673665936 source:/home/raihan/Desktop/TUBES STD 2022/TUBES_M_to_ N/program.cpp
+	"program.h"
+
